@@ -1,3 +1,3 @@
-public class Rejestracja{
+ public class rejestracja {
 
-}
+ }
