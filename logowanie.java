@@ -1,7 +1,10 @@
 public class {
 
-    private int ia=10;
-private int j=15;
+    private float ia=10;
+private int ja=25;
+
+public int xyz = 10;
+
     private int k=20;
     private int j=15;
     private int k=20;
